@@ -1,14 +1,14 @@
-# File Handling in Python: Count Lines Not Starting with 'T'
+# File Handling in Python: Count the frequency of each character in it.
 
 ## Aim
 To write a Python program to read a file and count the frequency of each character in  it.
 ##  Algorithm
-1. Open the file `story.txt` in **read mode**.
+1. Open the file  in **read mode**.
 2. Initialize a counter `count` to zero.
 3. Iterate through each line of the file:
-   - Check if the first character of the line is **not** `'T'`.
-   - If the line does not start with `'T'`, increment the `count` by 1.
-4. After processing all lines, print the `count` value, which represents the number of lines that do not start with `'T'`.
+   - Check if the each character of the line
+   - If the line does not start with `alphabet', increment the `count` by 1.
+4. After processing all lines, print the `count` value.
 
 ##  Program
 ```
