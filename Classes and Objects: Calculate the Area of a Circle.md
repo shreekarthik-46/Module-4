@@ -1,16 +1,16 @@
-# Classes and Objects in Python: Calculate the Area of a Circle
+# 4)a) Classes and Objects in Python: Calculate the Area of a Circle
 
-## 🎯 Aim
+##  Aim
 To write a Python program that calculates the **area of a circle** based on the radius provided by the user. This program uses a class named `saveetha` and a method `slot` to perform the calculation.
 
-## 🧠 Algorithm
+##  Algorithm
 1. **Get user input**: Take the radius of the circle as input from the user.
 2. **Define the class**: Create a class named `saveetha`.
 3. **Define the method**: Inside the class, define the method `slot` to calculate the area of the circle using the formula:  
    Area = 3.1416*r*r
 4. **Execute the program**: Create an object of the class and call the method with the radius value.
 
-## 🧾 Program
+## Program
 ```
 class saveetha:
     def slot(self,rad):
