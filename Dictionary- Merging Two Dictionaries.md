@@ -1,4 +1,4 @@
-## Dictionary Operations in Python: Merging Two Dictionaries
+## 4) b) Dictionary Operations in Python: Merging Two Dictionaries
 
 ##  Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
